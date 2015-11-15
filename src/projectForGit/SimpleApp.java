@@ -3,7 +3,9 @@ package projectForGit;
 public class SimpleApp {
 
 	public static void main(String[] args) {
-		Integer firstNum = 3;
+		String someVar = "Only for git purposes";
+		
+		Integer firstNum = 7;
 		Integer secondNum = 5;
 		
 		if (firstNum > secondNum) {
