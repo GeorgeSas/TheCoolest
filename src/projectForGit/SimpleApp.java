@@ -1,9 +1,14 @@
 package projectForGit;
 
+/*
+ * 
+ * Added a comment for GIT
+ * 
+ */
 public class SimpleApp {
 
 	public static void main(String[] args) {
-		String someVar = "Only for git purposes";
+		String someVar = "Only for GIT purposes";
 		
 		Integer firstNum = 7;
 		Integer secondNum = 5;
