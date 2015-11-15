@@ -24,7 +24,7 @@ public class SimpleApp {
 		} else {
 			System.out.println("Conditions is flase, so here we are.");
 			//Following is for the GitHub change part of the homework
-			System.out.println("Will this change be more important than the local one?")
+			System.out.println("Will this change be more important than the local one?");
 		}
 	}
 
