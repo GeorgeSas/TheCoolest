@@ -7,8 +7,8 @@ public class HelloFriend {
 		return name;
 	}
 	public static void main(String args[]) {
-		HelloFriend javaClassExample = new HelloFriend();
-		javaClassExample = javaClassExample.setName("Brie Vlad Alexandru");
-		System.out.println("Hello " + javaClassExample.getName());
+		HelloFriend javaClassExample = new HelloFriend(); //creating an object
+		javaClassExample.setName("Brie Vlad Alexandru"); // the object receives a value -> name=Brie Vlad Alexandru
+		System.out.println("Hello " + javaClassExample.getName()); //returns the value received at previous step
 	}
 }
