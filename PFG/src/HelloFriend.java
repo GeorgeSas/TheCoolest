@@ -8,7 +8,7 @@ public class HelloFriend {
 	}
 	public static void main(String args[]) {
 		HelloFriend javaClassExample = new HelloFriend();
-		javaClassExample = javaClassExample.setName("Brie Vlad");
+		javaClassExample = javaClassExample.setName("Brie Vlad Alexandru");
 		System.out.println("Hello " + javaClassExample.getName());
 	}
 }
