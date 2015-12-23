@@ -1,0 +1,5 @@
+This is a manifest. Should explain the project, but SimpleApp.java is too simple to need an explanation.
+
+
+Added line to file locally.
+
