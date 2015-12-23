@@ -12,6 +12,7 @@ public class HelloFriend {
 		HelloFriend javaClassExample = new HelloFriend();
 		javaClassExample.setName("trying to finish this god
 damn assignment :)")
+javaClassExample.setName("step 6 from assignment, don't think I know what I'm doin' again")
 		System.out.println("Hello " + javaClassExample.getName());
 	}
 }
