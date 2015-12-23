@@ -10,6 +10,8 @@ public class HelloFriend {
 	}
 	public static void main(String args[]) {
 		HelloFriend javaClassExample = new HelloFriend();
+		javaClassExample.setName("trying to finish this god
+damn assignment :)")
 		System.out.println("Hello " + javaClassExample.getName());
 	}
 }
